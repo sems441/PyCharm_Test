@@ -7,3 +7,5 @@ print("GGGG")
 print()
 print()
 print("**"*5)
+for _ in range (6):
+    print(1, end="_@_")
