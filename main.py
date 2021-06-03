@@ -4,3 +4,6 @@ print("Hey")
 a = input("")
 print("GGGG")
 #sdfsdfsfs
+print()
+print()
+print("**"*5)
